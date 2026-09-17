@@ -1,1 +1,1 @@
-print("Ninte achante Achar")
+print("Eda Mone")
